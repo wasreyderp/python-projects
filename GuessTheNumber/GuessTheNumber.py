@@ -15,5 +15,3 @@ while secretnumber != guess:
         print("the number is lesser")
     else:
         print(f"yay you guess right in {attempts} attempts")
-
-    
